@@ -1,0 +1,5 @@
+And thus our Masters of the D session ends with the arrival of our first player characters onto the scene. There comes a time when no more preparation can be made, because the moment for which you have been so carefully planning is upon you, and all that remains is to live out those moments according to your destiny.
+
+And as always, the closing of one chapter signifies the opening of another, and this conversation continues as Strahdo Mojado bonus content for our Patreon subscribers. So if you want to continue listening as a part of the Wet Maynard family, why don't you come on over to our Patreon page. Just visit patreon.com/wetmaynard. I would also like to extend my thanks to Gregoire Lourme for his haunting music track, "Memories", released through Creative Commons.
+
+I'll see you on the other side. Stay wet.

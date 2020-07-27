@@ -1,0 +1,3 @@
+Hello folks, Arthur Milliken here, Dungeon Master for Strahdo Mojado. If you're listening, I offer you my heartfelt thanks. Your support gives us the opportunity to create real magic -- to cast the spell of storytelling, and to make our dreams come true by bringing our dreams to you.
+
+This bonus content is a small glimpse into the Wet Maynard family, without our personas or character sheets, as we get ready to play our favorite game, Dungeons and Dragons. We've let down our guard, so we may sound a little un-polished. But you are our honored guests, and without you, there would be no reason for any of this hoopla. So again, thank you, sit back and relax, and have a drink with us.
