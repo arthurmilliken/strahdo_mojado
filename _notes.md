@@ -10,7 +10,7 @@ Dungeons and Dragons, D&amp;D, 5th Edition, Actual Play, Wet Maynard, Curse of S
 (Masters of the D)
 Dungeons and Dragons, D&D, 5th Edition, Wet Maynard, Curse of Strahd, Dungeon Master, Masters of the D
 
-(Masters of the D)
+(Masters of the D/RSS)
 Dungeons and Dragons, D&amp;D, 5th Edition, Wet Maynard, Curse of Strahd, Dungeon Master, Masters of the D
 
 ------
@@ -84,9 +84,19 @@ Ken opens his journal. Buffy likes the Sunsword and the Enemy. Recalling Bonegri
 
 ------
 
+Ep 16: Chalky, Tasteless and Delicious
+
+Caught in the Bonegrinder, stripped down to skivvies. That's how Buffy likes it. But they are terrible guests, sorry! Ismark sings a new tune after a word or two from Offalia. Night falls and even with a pillow, Buffy has disturbing meat pie-fueled dreams. What's on the Meechum tapes? Why do we think we're her? Anyway, weird dream, don't eat any more meat pies everybody. Next morning, Buffy and Offalia swoop off to Vallaki to sell some pies!
+
+Watch video for this episode on YouTube: https://youtu.be/c-fh7oh0ld8.
+
+This is a Wet Maynard production.
+
+------
+
 (DM) Episode 19(?): Hagfight
 
-(Masters of the D): Arthur did things Anna would never have done with Morgantha. His vision to unite the party. How far away is Offalia? Hydra, Homonculouse, Hobgoblin, Hellhound.... Nightmare Haunting, trap their soul. What about Vallaki? Rictavio. Walk on by.
+(Masters of the D): Arthur did things Anna would never have done with Morgantha. His vision to unite the party. How far away is Offalia? Hydra, Homonculous, Hobgoblin, Hellhound.... Nightmare Haunting, trap their soul. What about Vallaki? Rictavio. Walk on by.
 
 ---
 

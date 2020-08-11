@@ -59,10 +59,10 @@ Will you answer?
 This is a Wet Maynard production. Additional artwork in cover image by Loran DeSore, kindly used with permission.</description>
         <itunes:image href="https://archive.org/download/strahdo_mojado_ch1_ep1_invitation_to_death/itemimage.jpg" />
         <itunes:keywords>Dungeons and Dragons, D&amp;D, 5th Edition, Actual Play, Wet Maynard, Curse of Strahd, Death House</itunes:keywords>
-        <enclosure url="https://archive.org/download/strahdo_mojado_ch1_ep1_invitation_to_death/Strahdo%20Mojado%20-%20Ch1%20Ep1%20-%20Invitation%20to%20Death%20-%201-1b.mp3" length="30512686" type="audio/mpeg" />
-        <guid>https://archive.org/download/strahdo_mojado_ch1_ep1_invitation_to_death/Strahdo%20Mojado%20-%20Ch1%20Ep1%20-%20Invitation%20to%20Death%20-%201-1b.mp3</guid>
+        <enclosure url="https://archive.org/download/strahdo_mojado_ch1_ep1_invitation_to_death/Strahdo%20Mojado%20-%20Ep01%20-%20Invitation%20to%20Death%20-%207-24.mp3" length="64687099" type="audio/mpeg" />
+        <guid>https://archive.org/download/strahdo_mojado_ch1_ep1_invitation_to_death/Strahdo%20Mojado%20-%20Ep01%20-%20Invitation%20to%20Death%20-%207-24.mp3</guid>
         <pubDate>Sat, 04 Jan 2020 00:43:00 GMT</pubDate>
-        <itunes:duration>45:00</itunes:duration>
+        <itunes:duration>44:15</itunes:duration>
         <itunes:season>1</itunes:season>
         <itunes:episode>1</itunes:episode>
         <itunes:explicit>yes</itunes:explicit>
@@ -327,8 +327,8 @@ They ride into the heart of Barovia. A windmill sits atop a promontory. Bluffy s
         <description>(Masters of the D): The Hags of Old Bonegrinder plot to make battle, corrupt hearts, and sell pies. This is a Wet Maynard production.</description>
         <itunes:image href="https://archive.org/download/strahdo_mojado_ep013_bonegrinder/itemimage.jpg" />
         <itunes:keywords>Dungeons and Dragons, D&amp;D, 5th Edition, Wet Maynard, Curse of Strahd, Dungeon Master, Masters of the D</itunes:keywords>
-        <enclosure url="https://archive.org/download/strahdo_mojado_ep013_bonegrinder/Strahdo%20Mojado%20-%20Ep13%20-%20Bonegrinder%206-7.mp3" length="118758777" type="audio/mpeg" />
-        <guid>https://archive.org/download/strahdo_mojado_ep013_bonegrinder/Strahdo%20Mojado%20-%20Ep13%20-%20Bonegrinder%206-7.mp3</guid>
+        <enclosure url="https://archive.org/download/strahdo_mojado_ep013_bonegrinder/Strahdo%20Mojado%20-%20Ep13%20-%20Bonegrinder%208-10.mp3" length="87019809" type="audio/mpeg" />
+        <guid>https://archive.org/download/strahdo_mojado_ep013_bonegrinder/Strahdo%20Mojado%20-%20Ep13%20-%20Bonegrinder%208-10.mp3</guid>
         <pubDate>Thu, 11 Jun 2020 06:00:00 GMT</pubDate>
         <itunes:duration>1:00:24</itunes:duration>
         <itunes:season>1</itunes:season>
@@ -373,6 +373,30 @@ This is a Wet Maynard production.</description>
         <itunes:duration>45:12</itunes:duration>
         <itunes:season>1</itunes:season>
         <itunes:episode>15</itunes:episode>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
+        <title>Ep 16: Chalky, Tasteless and Delicious</title>
+        <itunes:title>Ep 16: Chalky, Tasteless and Delicious</itunes:title>
+        <itunes:author>Wet Maynard</itunes:author>
+        <itunes:summary>Caught in the Bonegrinder, stripped down to skivvies. That's how Buffy likes it. But they are terrible guests, sorry! Ismark sings a new tune after a word or two from Offalia. Night falls and even with a pillow, Buffy has disturbing meat pie-fueled dreams. What's on the Meechum tapes? Why do we think we're her? Anyway, weird dream, don't eat any more meat pies everybody. Next morning, Buffy and Offalia swoop off to Vallaki to sell some pies!
+
+        Watch video for this episode on YouTube: https://youtu.be/c-fh7oh0ld8.
+
+        This is a Wet Maynard production.</itunes:summary>
+        <description>Caught in the Bonegrinder, stripped down to skivvies. That's how Buffy likes it. But they are terrible guests, sorry! Ismark sings a new tune after a word or two from Offalia. Night falls and even with a pillow, Buffy has disturbing meat pie-fueled dreams. What's on the Meechum tapes? Why do we think we're her? Anyway, weird dream, don't eat any more meat pies everybody. Next morning, Buffy and Offalia swoop off to Vallaki to sell some pies!
+
+        Watch video for this episode on YouTube: https://youtu.be/c-fh7oh0ld8.
+
+        This is a Wet Maynard production.</description>
+        <itunes:image href="https://archive.org/download/strahdo_mojado_ep016_chalky_tastless_and_delicious/itemimage.jpg" />
+        <itunes:keywords>Dungeons and Dragons, D&amp;D, 5th Edition, Actual Play, Wet Maynard, Curse of Strahd, Strahdo Mojado</itunes:keywords>
+        <enclosure url="https://archive.org/download/strahdo_mojado_ep016_chalky_tastless_and_delicious/Strahdo%20Mojado%20-%20Ep16%20-%20Chalky%20Tasteless%20and%20Delicious%207-27.mp3" length="68926828" type="audio/mpeg" />
+        <guid>https://archive.org/download/strahdo_mojado_ep016_chalky_tastless_and_delicious/Strahdo%20Mojado%20-%20Ep16%20-%20Chalky%20Tasteless%20and%20Delicious%207-27.mp3</guid>
+        <pubDate>Mon, 27 Jul 2020 06:00:00 GMT</pubDate>
+        <itunes:duration>46:47</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>16</itunes:episode>
         <itunes:explicit>yes</itunes:explicit>
     </item>
   </channel>
