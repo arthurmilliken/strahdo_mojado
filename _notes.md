@@ -53,7 +53,7 @@ This is a Wet Maynard production.
 
 ---
 
-Thanks again to the amazing crew at Butcher Bird Studios, and thanks go to Gregoire Lourme for the dramatic track "Orphanage" which we heard at the beginning of this episode, and to the Devil Music Company for "Find You" which we are listening to right now. This is a Wet Maynard Production.
+Thanks again to the amazing crew at Butcher Bird Studios, and thanks go to Gregoire Lourme for the dramatic track "Orphanage" which we heard at the beginning of this episode, and to the Devil Music Company for "Find You" which we are listening to right now. This is a Wet Maynard production.
 
 ------
 Episode 12: Dream Pastries
@@ -94,17 +94,56 @@ This is a Wet Maynard production.
 
 ------
 
-(DM) Episode 19(?): Hagfight
+Ep 17: What's Special About Our Pies
+
+Hey girl! I'm just gonna talk at you for a minute... Buffy and Offalia both know what it's like. Will they be besties? Is Buffy the worst roller? She's on a mission and she's not afraid to shake a large, scaly monster's hand. She's gotta make some controversial decisions.
+
+What's going on with Ken and Ismark? They're going to have a moment. Ireena is definitely not making eye contact with those two lovers. Ismark is confused--he is really confused. Ireena goes over to hug Ismark. There are so many ways to fuck Ismark.
+
+He has a meat pie. Walking down desert highway, there's a bus in front of him. Get on or get off, we're making things up all night long.
+
+Watch video for this episode on YouTube: https://youtu.be/swEcv_N-VJA
+
+This is a Wet Maynard production.
+
+------
+
+Ep 18: Flour in the Attic
+
+Prisoners are transferred to a darker cell. Buffy and Ken ponder Offalia and "AKA Bella's the hot one." Buffy moves some pie. Ken spies Bella in a compromising position. Offalia escorts Buffy back home. Tinok's repose becomes more gentle. Ken plans a daring maneuver. Make another Stealth check.
+
+Watch video for this episode on YouTube: https://youtu.be/5NkWQMY4iNY
+
+This is a Wet Maynard production.
+
+------
+
+(DM) Ep 19: Hagfight
 
 (Masters of the D): Arthur did things Anna would never have done with Morgantha. His vision to unite the party. How far away is Offalia? Hydra, Homonculous, Hobgoblin, Hellhound.... Nightmare Haunting, trap their soul. What about Vallaki? Rictavio. Walk on by.
 
----
+Watch video for this episode on YouTube: https://youtu.be/7gCEXrdiFNk
+
+Artwork and Animations provided by James' RPG Art, https://www.patreon.com/jamesrpgart, kindly used with permission. "Ka-boom (lightning)" by Leszek Leszczynski is licensed under CC BY 2.0. Music: "Orphanage" by Gregoire Lourme is licesnsed under CC BY-NC-ND 3.0.
+
+This is a Wet Maynard production.
+
+------
+
+Ep 20: Mechanical Arms
+
+Our first quarantine edition of Strahdo Mojado. Youth, Laughter and Mother's Milk. Morgantha's Pin and Spider-Wiz. Lightning strikes, and arms turn. "Mother, our guests are gone!" Bluffy and Bella enjoy a third story view together. Ireena admires Bella's ugly skirt. Ken put a sock in it. Offalia is quite proud of Buffy's ugly name. Zap! Morgantha knocks. Ismark goes in for a hug. Lisbet says hello and goodbye, without any help. Machinery is Bluffy's jam. The Wiz gives Bella mouth to mouth, and is betrayed by Art. Ismark teaches geometry to Ireena. Bella leaves a pool. The Wiz wants housecleaning. Buffy gets mixed signals from Offalia.
+
+This is a Wet Maynard production.
+
+------
+
 
 Greetings, and welcome back to Masters of the D. Now that our short-handed party has been defeated by the hags of Bonegrinder, it is time for those heroes who went missing to return to the action. To make matters even more interesting, one of Morgantha's daughters is out for a stroll far away from the windmill, thus breaking the coven and depriving the hags of their most powerful spells. How do Anna and I prepare for what is now a fair fight? Listen and find out.
 
 ---
 
-They don't know the dangers of Vallaki. They also don't know how grateful we are here at Wet Maynard to Gregoire Lourme for his Little Girl with Dark Hair, as well as his Orphanage, playing right now. This is a Wet Maynard Production.
+They don't know the dangers of Vallaki. They also don't know how grateful we are here at Wet Maynard to Gregoire Lourme for his Little Girl with Dark Hair, as well as his Orphanage, playing right now. This is a Wet Maynard production.
 
 
 
