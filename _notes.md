@@ -138,6 +138,20 @@ This is a Wet Maynard production.
 
 ------
 
+Ep 21: Blazin'
+
+It was a disaster. What happened? I'm just gonna knock here on my cauldron. The Wiz tips it over. Lisbet says burn the room. Bluffy tickles Morgantha, who takes a seat. The Wiz has a plan. Ismark says we are balls deep. Can we all do it at the same time? Ready! Ismark taunts with his thing. Buffy plays a game with Offalia. Everybody unloads. The Wiz makes water. Morgantha discovers a new vulnerability. Ken takes a breath. Buffy gets dressed. Morgantha drops. Lisbet and Ken torch it. All the Buffies say goodbye. The Wiz and Lisbet share a drink. Buffy checks in with Lisbet. Is the game over? Do we have to go?
+
+This is a Wet Maynard production.
+
+------
+
+(DM) Ep 22: Road to Vallaki
+
+(Masters of the D): After the hagfight, it's been a long day. Fight and kill and go out in a blaze of glory? Relocate kitchen and reboot business? No more grinding children in the comfort of their own windmill? Rictavio's song. A path out of Bonegrinder. A pack of wolves. The Mourning Gate. What time will it be?  A tour of Vallaki: Missing Bones, Coffin Maker, Baron and Mrs. Wachter, Blue Water Inn. How do you want it to go? Flyover country?
+
+------
+
 
 Greetings, and welcome back to Masters of the D. Now that our short-handed party has been defeated by the hags of Bonegrinder, it is time for those heroes who went missing to return to the action. To make matters even more interesting, one of Morgantha's daughters is out for a stroll far away from the windmill, thus breaking the coven and depriving the hags of their most powerful spells. How do Anna and I prepare for what is now a fair fight? Listen and find out.
 
