@@ -559,5 +559,25 @@ This is a Wet Maynard production.</description>
         <itunes:episode>22</itunes:episode>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Ep 23: Radant Dawn</title>
+        <itunes:title>Ep 23: Radant Dawn</itunes:title>
+        <itunes:author>Wet Maynard</itunes:author>
+        <itunes:summary>Three Buffies did a little human pyramid. You're starting to get hot. The Wiz can grind it out 15 minutes. A miniature Stonehenge. I am the Ancient, I am the Land. Arooooooooya! A small pile of children's teeth. Myrtle and... Freek?! Lisbet learns how to make an Arcana Check. Things really took a turn while Buffy was away. Ireena saw it, but no one's talking about it. Barking, howling, and snarling. That's a lot of fahking wolves! Arooooo bitches. Ken's got Tony Orlando and Dawn. Matt's got secret tricks. Can Lisbet use her little bag of sand? Buffy's Shield of Faith. The power of Christ compels you! Ireena stands petrified. Wolf steaks, and a Holy Crucifix of Ravenkind. Ken argues for the cross. The children are crying. Tinok?! Ken makes a Perception check. Buffy argues for the cross. Buffy agrees to toss it.
+
+This is a Wet Maynard Production.</itunes:summary>
+        <description>Three Buffies did a little human pyramid. You're starting to get hot. The Wiz can grind it out 15 minutes. A miniature Stonehenge. I am the Ancient, I am the Land. Arooooooooya! A small pile of children's teeth. Myrtle and... Freek?! Lisbet learns how to make an Arcana Check. Things really took a turn while Buffy was away. Ireena saw it, but no one's talking about it. Barking, howling, and snarling. That's a lot of fahking wolves! Arooooo bitches. Ken's got Tony Orlando and Dawn. Matt's got secret tricks. Can Lisbet use her little bag of sand? Buffy's Shield of Faith. The power of Christ compels you! Ireena stands petrified. Wolf steaks, and a Holy Crucifix of Ravenkind. Ken argues for the cross. The children are crying. Tinok?! Ken makes a Perception check. Buffy argues for the cross. Buffy agrees to toss it.
+
+This is a Wet Maynard Production.</description>
+        <itunes:image href="https://archive.org/download/strahdo_mojado_ep023_radiant_dawn/itemimage.jpg" />
+        <itunes:keywords>Dungeons and Dragons, D&amp;D, 5th Edition, Actual Play, Wet Maynard, Curse of Strahd</itunes:keywords>
+        <enclosure url="https://archive.org/download/strahdo_mojado_ep023_radiant_dawn/Strahdo%20Mojado%20-%20Ep23%20-%20Radiant%20Dawn%20-%2011-22.mp3" length="63933261" type="audio/mpeg" />
+        <guid>https://archive.org/download/strahdo_mojado_ep023_radiant_dawn/Strahdo%20Mojado%20-%20Ep23%20-%20Radiant%20Dawn%20-%2011-22.mp3</guid>
+        <pubDate>Mon, 23 Nov 2020 06:00:00 GMT</pubDate>
+        <itunes:duration>43:40</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>23</itunes:episode>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
   </channel>
 </rss>

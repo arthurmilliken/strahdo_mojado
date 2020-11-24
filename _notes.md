@@ -152,6 +152,14 @@ This is a Wet Maynard production.
 
 ------
 
+Ep 23: Radiant Dawn
+
+Three Buffies did a little human pyramid. You're starting to get hot. The Wiz can grind it out 15 minutes. A miniature Stonehenge. I am the Ancient, I am the Land. Arooooooooya! A small pile of children's teeth. Myrtle and... Freek?! Lisbet learns how to make an Arcana Check. Things really took a turn while Buffy was away. Ireena saw it, but no one's talking about it. Barking, howling, and snarling. That's a lot of fahking wolves! Arooooo bitches. Ken's got Tony Orlando and Dawn. Matt's got secret tricks. Can Lisbet use her little bag of sand? Buffy's Shield of Faith. The power of Christ compels you! Ireena stands petrified. Wolf steaks, and a Holy Crucifix of Ravenkind. Ken argues for the cross. The children are crying. Tinok?! Ken makes a Perception check. Buffy argues for the cross. Buffy agrees to toss it.
+
+This is a Wet Maynard Production.
+
+---
+
 
 Greetings, and welcome back to Masters of the D. Now that our short-handed party has been defeated by the hags of Bonegrinder, it is time for those heroes who went missing to return to the action. To make matters even more interesting, one of Morgantha's daughters is out for a stroll far away from the windmill, thus breaking the coven and depriving the hags of their most powerful spells. How do Anna and I prepare for what is now a fair fight? Listen and find out.
 
