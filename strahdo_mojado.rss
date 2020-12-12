@@ -579,5 +579,25 @@ This is a Wet Maynard Production.</description>
         <itunes:episode>23</itunes:episode>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Ep 24: Gates of Vallaki</title>
+        <itunes:title>Ep 24: Gates of Vallaki</itunes:title>
+        <itunes:author>Wet Maynard</itunes:author>
+        <itunes:summary>The Wiz Files, Thursdays at 9, goes off the map. Tinok sits propped up against a tree. Ken interrogates. There's no sides of the story. Liz asks the Wiz or the Biz or whoever he is, "to bite me"? Ken and Bluffy wrestle their webcams. Ismark invites the Wiz to get things chilled out. Hate the disease. Freek seems down. Yo, open the gates. The Wiz persuades closer up the wall. Ismark and Buffy vouch for the rest. Grant is totally persuaded. Ken propositions Myrtle. Father Lucian extends a questionable invitation. The Wiz knows where you sleep.
+
+        This is a Wet Maynard Production.</itunes:summary>
+        <description>The Wiz Files, Thursdays at 9, goes off the map. Tinok sits propped up against a tree. Ken interrogates. There's no sides of the story. Liz asks the Wiz or the Biz or whoever he is, "to bite me"? Ken and Bluffy wrestle their webcams. Ismark invites the Wiz to get things chilled out. Hate the disease. Freek seems down. Yo, open the gates. The Wiz persuades closer up the wall. Ismark and Buffy vouch for the rest. Grant is totally persuaded. Ken propositions Myrtle. Father Lucian extends a questionable invitation. The Wiz knows where you sleep.
+
+        This is a Wet Maynard Production.</description>
+        <itunes:image href="https://archive.org/download/strahdo_mojado_ep024_gates_of_vallaki/itemimage.jpg" />
+        <itunes:keywords>Dungeons and Dragons, D&amp;D, 5th Edition, Actual Play, Wet Maynard, Curse of Strahd</itunes:keywords>
+        <enclosure url="https://archive.org/download/strahdo_mojado_ep024_gates_of_vallaki/Strahdo%20Mojado%20-%20Ep24%20-%20Gates%20of%20Vallaki%20-%2012-10.mp3" length="73039514" type="audio/mpeg" />
+        <guid>https://archive.org/download/strahdo_mojado_ep024_gates_of_vallaki/Strahdo%20Mojado%20-%20Ep24%20-%20Gates%20of%20Vallaki%20-%2012-10.mp3</guid>
+        <pubDate>Fri, 11 Dec 2020 06:00:00 GMT</pubDate>
+        <itunes:duration>49:35</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>24</itunes:episode>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
   </channel>
 </rss>

@@ -160,6 +160,14 @@ This is a Wet Maynard Production.
 
 ---
 
+Ep 24: Gates of Vallaki
+
+The Wiz Files, Thursdays at 9, goes off the map. Tinok sits propped up against a tree. Ken interrogates. There's no sides of the story. Liz asks the Wiz or the Biz or whoever he is, "to bite me"? Ken and Bluffy wrestle their webcams. Ismark invites the Wiz to get things chilled out. Hate the disease. Freek seems down. Yo, open the gates. The Wiz persuades closer up the wall. Ismark and Buffy vouch for the rest. Grant is totally persuaded. Ken propositions Myrtle. Father Lucian extends a questionable invitation. The Wiz knows where you sleep.
+
+This is a Wet Maynard Production.
+
+---
+
 
 Greetings, and welcome back to Masters of the D. Now that our short-handed party has been defeated by the hags of Bonegrinder, it is time for those heroes who went missing to return to the action. To make matters even more interesting, one of Morgantha's daughters is out for a stroll far away from the windmill, thus breaking the coven and depriving the hags of their most powerful spells. How do Anna and I prepare for what is now a fair fight? Listen and find out.
 
