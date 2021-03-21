@@ -14,9 +14,16 @@ Dungeons and Dragons, D&D, 5th Edition, Wet Maynard, Curse of Strahd, Dungeon Ma
 Dungeons and Dragons, D&amp;D, 5th Edition, Wet Maynard, Curse of Strahd, Dungeon Master, Masters of the D
 
 ------
+Episodes 2-3: Don't Wake the Baby
+
+Tinok remembers a dumb waiter, drinks? Short rest in a den of wolves. Roll for not needing his light, well snacked! Gustav's library. Dronk writes a song. A hidden cache. Almost a Ravenloft. My most pathetic servant. Conservatory dog collar. Busted heads. A disarming meeting with a corporate suit. Dronk splits his plate. What's a Bezant or two between friends? Lisbet makes things clean! Ken proves that we are not all vampires. Tinok reflects on a shattered past. I told you not to wake the Baby! Buffy may not be effective, but she's determined. Swoosh. Swoosh.
+
+This is a Wet Maynard production. Additional artwork in cover image by Loran DeSore, kindly used with permission.
+
+------
 Episode 7: Men of Letters
 
-Tinok has made a choice. Our heroes encounter a pastry cart in the rain. Morgantha peddles meat pies. Two clerics walk into a bar, and discover a plea for help. Bluffy hunts for snarfs and werewolves. Lisbet's misty step takes her far indeed. Another corpse reveals another letter. Ismark the Lesser knows more.
+Welcome to Barovia. Introductions. Tinok has made a choice. Our heroes encounter a pastry cart in the rain. Morgantha peddles meat pies. Two clerics walk into a bar, and discover a plea for help. Bluffy hunts for snarfs and werewolves. Lisbet's misty step takes her far indeed. Another corpse reveals another letter. Ismark the Lesser knows more.
 
 This is a Wet Maynard production.
 
@@ -168,6 +175,13 @@ This is a Wet Maynard Production.
 
 ---
 
+Ep 25: Meanwhile, Back in Barovia...
+
+Dali, meet Shovel. Hello Donavich. Maximus charms sand. Armo growls. Public Service Announcement. "Father!" Armo gets key, and frees Doru. March of the Dead. Maximus is already typing secret messages. Doru mourns Father. Maximus marches with the dead. Armo gets some Mad Mary. The Wiz enters town under protest. Dali discovers a Waffle Crew. The Wiz utters a warning. The spawn attack. Evelyn smites Maximus with her battle axe. Strix takes a misty step.
+
+This is a Wet Maynard Production.
+
+---
 
 Greetings, and welcome back to Masters of the D. Now that our short-handed party has been defeated by the hags of Bonegrinder, it is time for those heroes who went missing to return to the action. To make matters even more interesting, one of Morgantha's daughters is out for a stroll far away from the windmill, thus breaking the coven and depriving the hags of their most powerful spells. How do Anna and I prepare for what is now a fair fight? Listen and find out.
 

@@ -1,10 +1,8 @@
 Rictavio's Song
 ------
 
-Everything about my carnival was spectacular,
-Including the price. One Silver.
-Now, that might seem a bit steep, but it was worth it.
-Look at what I gave them.
+Everything about my carnival was spectacular, including the price. One Silver!
+Now, that might seem a bit steep, but it was worth it. Look at what I gave them.
 
 Dwarven flagons, pointy teeth of dragons,
 A little pinkie from the Hand of Vecna,
@@ -68,5 +66,3 @@ One iguana, snakes and other fauna,
 Got no bearded lady but we're getna,
 When you duck out, take another buck out,
 Run around the block and see a new show start!
-
-
